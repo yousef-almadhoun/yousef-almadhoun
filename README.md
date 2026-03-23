@@ -25,7 +25,7 @@ as well as working with different people. He has worked on web apps. I can help 
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
-<a href="www.linkedin.com/in/yousef-elmadhoun" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="yousef elmadhoun" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/yousef-elmadhoun" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="yousef elmadhoun" height="30" width="30" /></a>
 <a href="https://wa.me/970567676380" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670133.png" alt="yousef elmadhoun" height="30" width="30" /></a>
 
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
