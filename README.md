@@ -15,11 +15,12 @@ This is the place where I stuff codes and break things :rofl:
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 -->
+<br />
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="www.linkedin.com/in/yousef-elmadhoun" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="yousef elmadhoun" height="30" width="40" /></a>
-<a href="https://wa.me/970567676380" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670133.png" alt="yousef elmadhoun" height="30" width="40" /></a>
-
+<a href="www.linkedin.com/in/yousef-elmadhoun" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="yousef elmadhoun" height="25" width="25" /></a>
+<a href="https://wa.me/970567676380" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670133.png" alt="yousef elmadhoun" height="25" width="25" /></a>
+<br />
 ### ✨&nbsp; About Me
 
 I am a Full Stack Developer with 6+ years of experience in developing enterprise applications.  
