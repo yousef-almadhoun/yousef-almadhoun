@@ -16,14 +16,20 @@ This is the place where I stuff codes and break things :rofl:
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 -->
 <br />
+
 🔗 &nbsp;**Connect with me**
+
 <p align="left">
-<a href="www.linkedin.com/in/yousef-elmadhoun" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="yousef elmadhoun" height="25" width="25" /></a>
-<a href="https://wa.me/970567676380" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670133.png" alt="yousef elmadhoun" height="25" width="25" /></a>
+<a href="www.linkedin.com/in/yousef-elmadhoun" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="yousef elmadhoun" height="30" width="30" /></a>
+<a href="https://wa.me/970567676380" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670133.png" alt="yousef elmadhoun" height="30" width="30" /></a>
+  
 <br />
+  
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 6+ years of experience in developing enterprise applications.  
+I am work as a computer system engineer. I has extensive experience building web apps, which are specialized. I has shown that he is persevering and passionate about his work and always 
+strives to present perfect results. I has an aptitude for learning and developing interpersonal skills 
+as well as working with different people. He has worked on web apps. I can help you create your web app.
 
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 <br/>
